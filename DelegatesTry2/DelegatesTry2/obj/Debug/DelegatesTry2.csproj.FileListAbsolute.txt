@@ -1,0 +1,6 @@
+c:\Users\balaj\Documents\Visual Studio 2017\Projects\DelegatesTry2\DelegatesTry2\bin\Debug\DelegatesTry2.exe.config
+c:\Users\balaj\Documents\Visual Studio 2017\Projects\DelegatesTry2\DelegatesTry2\bin\Debug\DelegatesTry2.exe
+c:\Users\balaj\Documents\Visual Studio 2017\Projects\DelegatesTry2\DelegatesTry2\bin\Debug\DelegatesTry2.pdb
+c:\Users\balaj\Documents\Visual Studio 2017\Projects\DelegatesTry2\DelegatesTry2\obj\Debug\DelegatesTry2.csprojResolveAssemblyReference.cache
+c:\Users\balaj\Documents\Visual Studio 2017\Projects\DelegatesTry2\DelegatesTry2\obj\Debug\DelegatesTry2.exe
+c:\Users\balaj\Documents\Visual Studio 2017\Projects\DelegatesTry2\DelegatesTry2\obj\Debug\DelegatesTry2.pdb
